@@ -1,5 +1,11 @@
 # Orange Button Solar Taxonomy 2020-04-01
 
+THIS REPOSITORY IS OLD AND INACTIVE (PLEASE DO NOT USE).
+
+The new and active repositories are available here: https://github.com/Open-Orange-Button
+
+----
+
 This Taxonomy was developed as part of the U.S. Department of Energy Solar Energy Technologies Office-funded <a href="https://xbrl.us/solar" target="_blank">Orange Button <sup style="font-size: 60%;">SM</sup> program</a>, that aims to make it easier to aggregate and share solar data, facilitating more efficient and cost-effective financing of distributed energy projects.  
 
 <a href="https://sunspec.org/sunspec-about/" target="_blank">SunSpec Alliance</a> heads the Orange Button project team that is tasked with establishing an open, easy-to-adopt, solar data architecture, and standards. XBRL US leads the effort to build the financial portion of Orange Button standards, leveraging elements from the U.S. GAAP Taxonomy for public companies, and from existing solar data standards.
